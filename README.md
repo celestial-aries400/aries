@@ -13,6 +13,13 @@ se necesita 2 adaptadores wifi
 
 solo espera que el cliente borre la clave para que se active la falsa
 
+
+1 usa hostapd con wps falso
+
+2 por eso se pone encima de la red original
+
+y
+
 1 aircrack-ng-1.2-rc4  modificado
 
 2 mdk3  modificado
