@@ -26,6 +26,8 @@ y
 
 3 linset v0.12 de vk496 modificado por aries
 
+4 ha sido probado con 2 pc y funciona con windows 10
+
 linset original de vk496
 
 https://github.com/vk496/linset
