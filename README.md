@@ -1,7 +1,7 @@
 # aries
 modificaciones
 
-linset 0.12 modificado por aries
+linset 0.12 modificado por aries beta1 beta2
 
 novedad
 
@@ -27,6 +27,18 @@ y
 3 linset v0.12 de vk496 modificado por aries
 
 4 ha sido probado con 2 pc y funciona con windows 10
+
+
+beta2
+
+2 versiones
+
+red abierta
+
+red wifi con wps falso
+
+ya solo usa 1 adaptador wifi
+
 
 linset original de vk496
 
