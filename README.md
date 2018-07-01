@@ -40,6 +40,16 @@ red wifi con wps falso
 ya solo usa 1 adaptador wifi
 
 
+beta3
+
+nuevo linset con mensaje
+
+el mensaje es
+
+actualizar movistar_xxxx
+
+
+
 linset original de vk496
 
 https://github.com/vk496/linset
