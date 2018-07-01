@@ -1,6 +1,10 @@
 # aries
 modificaciones
 
+solo funciona con wpa y wpa2
+
+no funciona con wpa3
+
 linset 0.12 modificado por aries beta1 beta2
 
 novedad
