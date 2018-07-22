@@ -54,6 +54,16 @@ actualizar movistar_xxxx
 
 
 
+beta4
+
+linset 0.12 modificado por aries beta4
+
+lo mejor
+
+la red original se pondra invisible para el ojo humano
+
+
+
 linset original de vk496
 
 https://github.com/vk496/linset
