@@ -68,7 +68,15 @@ beta5
 ya mejorado y el handshake
 
 
+beta6
 
+linset-0.12-beta-6-red-wifi-invisible-aries.xzm beta6
+
+mejorado el handshake
+
+quitado el ssl daba problemas
+
+y ahora si usara 2 adatodores wifi para que haga mas efecto el ataque
 
 linset original de vk496
 
